@@ -1,0 +1,218 @@
+{
+    "snack":[
+        {
+            "text": "Big Mac",
+            "img": "/Lanches/Big Mac.jpg",
+            "price": "22,90",
+            "kcal": "499"
+        },
+        {
+            "text": "Big Mac Bacon",
+            "img": "/Lanches/Big Mac Bacon.jpg",
+            "price": "27,00",
+            "kcal": "601"
+        },
+        {
+            "text": "Big Mac Duplo",
+            "img": "/Lanches/Big Mac Duplo.jpg",
+            "price": "27,80",
+            "kcal": "692"
+        },
+        {
+            "text": "Cheddar McMelt",
+            "img": "/Lanches/Cheddar McMelt.jpg",
+            "price": "29,80",
+            "kcal": "505"
+        },
+        {
+            "text": "Cheeseburger",
+            "img": "/Lanches/Cheeseburger.jpg",
+            "price": "9,90",
+            "kcal": "298"
+        },
+        {
+            "text": "Duplo Burger Bacon",
+            "img": "/Lanches/Duplo Burger Bacon.jpg",
+            "price": "26,00",
+            "kcal": "478"
+        },
+        {
+            "text": "Duplo Burger com Queijo",
+            "img": "/Lanches/Duplo Burger com Queijo.jpg",
+            "price": "26,00",
+            "kcal": "406"
+        },
+        {
+            "text": "Duplo Cheddar McMelt",
+            "img": "/Lanches/Duplo Cheddar McMelt.jpg",
+            "price": "26,00",
+            "kcal": "855"
+        },
+        {
+            "text": "Duplo Quarterão",
+            "img": "/Lanches/Duplo Quarterão.jpg",
+            "price": "34,90",
+            "kcal": "819"
+        },
+        {
+            "text": "Hamburger",
+            "img": "/Lanches/Hamburger.jpg",
+            "price": "8,90",
+            "kcal": "249"
+        },
+        {
+            "text": "McFiesta",
+            "img": "/Lanches/McFiesta.jpg",
+            "price": "11,90",
+            "kcal": "251"
+        },
+        {
+            "text": "McNífico Bacon",
+            "img": "/Lanches/McNífico Bacon.jpg",
+            "price": "33,90",
+            "kcal": "640"
+        },
+        {
+            "text": "Quarterão com Queijo",
+            "img": "/Lanches/Quarterão com Queijo.jpg",
+            "price": "29,80",
+            "kcal": "549"
+        },
+        {
+            "text": "Triplo Burger",
+            "img": "/Lanches/Triplo Burger.jpg",
+            "price": "26,00",
+            "kcal": "545"
+        }
+    ],
+    "drinks":[
+        {
+            "text": "Coca-Cola 300ml",
+            "img": "/Bebidas/Coca-Cola 300ml.jpg",
+            "price": "9,90",
+            "kcal": "125"
+        },
+        {
+            "text": "Fanta Laranja 500ml",
+            "img": "/Bebidas/Fanta Laranja 500ml.jpg",
+            "price": "12,40",
+            "kcal": "198"
+        },
+        {
+            "text": "Fanta Laranja 700ml",
+            "img": "/Bebidas/Fanta Laranja 700ml.jpg",
+            "price": "14,90",
+            "kcal": "277"
+        },
+        {
+            "text": "Café Premium 100ml",
+            "img": "/Bebidas/Café Premium 100ml.jpg",
+            "price": "2,00",
+            "kcal": "4"
+        },
+        {
+            "text": "Café Premium 300ml",
+            "img": "/Bebidas/Café Premium 300ml.jpg",
+            "price": "6,00",
+            "kcal": "12"
+        },
+        {
+            "text": "Café com Leite 200ml",
+            "img": "/Bebidas/Café com Leite 200ml.jpg",
+            "price": "5,50",
+            "kcal": "53"
+        },
+        {
+            "text": "Café com Leite 300ml",
+            "img": "/Bebidas/Café com Leite 300ml.jpg",
+            "price": "6,90",
+            "kcal": "79"
+        },
+        {
+            "text": "Capuccino 200ml",
+            "img": "/Bebidas/Capuccino 200ml.jpg",
+            "price": "6,00",
+            "kcal": "74"
+        },
+        {
+            "text": "Capuccino 300ml",
+            "img": "/Bebidas/Capuccino 300ml.jpg",
+            "price": "8,90",
+            "kcal": "119"
+        },
+        {
+            "text": "Chocolate Quente 200ml",
+            "img": "/Bebidas/Chocolate Quente 200ml.jpg",
+            "price": "6,00",
+            "kcal": "119"
+        },
+        {
+            "text": "Chocolate Quente 300ml",
+            "img": "/Bebidas/Chocolate Quente 300ml.jpg",
+            "price": "8,90",
+            "kcal": "178"
+        }
+    ],
+    "side_dishes":[
+        {
+            "text": "Chicken McNuggets 4 unidades",
+            "img": "/Acompanhamentos/Chicken McNuggets 4 unidades",
+            "price": "8,00",
+            "kcal": "155"
+        },
+        {
+            "text": "Chicken McNuggets 6 unidades",
+            "img": "/Acompanhamentos/Chicken McNuggets 6 unidades",
+            "price": "10,00",
+            "kcal": "232"
+        },
+        {
+            "text": "Chicken McNuggets 10 unidades",
+            "img": "/Acompanhamentos/Chicken McNuggets 10 unidades",
+            "price": "15,00",
+            "kcal": "387"
+        },
+        {
+            "text": "Chicken McNuggets 20 unidades",
+            "img": "/Acompanhamentos/Chicken McNuggets 20 unidades",
+            "price": "27,00",
+            "kcal": "774"
+        },
+        {
+            "text": "Chicken McNuggets 40 unidades",
+            "img": "/Acompanhamentos/Chicken McNuggets 40 unidades",
+            "price": "52,00",
+            "kcal": "1549"
+        },
+        {
+            "text": "McFritas Cheddar bacon",
+            "img": "/Acompanhamentos/McFritas Cheddar bacon",
+            "price": "15,00",
+            "kcal": "428"
+        },
+        {
+            "text": "McFritas Grande",
+            "img": "/Acompanhamentos/McFritas Grande",
+            "price": "12,00",
+            "kcal": "422"
+        },
+        {
+            "text": "McFritas Kids",
+            "img": "/Acompanhamentos/McFritas Kids",
+            "price": "6,00",
+            "kcal": "92"
+        },
+        {
+            "text": "McFritas Média",
+            "img": "/Acompanhamentos/McFritas Média",
+            "price": "10,00",
+            "kcal": "295"
+        },
+        {
+            "text": "McFritas Pequena",
+            "img": "/Acompanhamentos/McFritas Pequena",
+            "price": "8,00",
+            "kcal": "211"
+        }
+    ]
+}

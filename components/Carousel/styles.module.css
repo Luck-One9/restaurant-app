@@ -1,0 +1,17 @@
+.carousel_item {
+    scroll-snap-align: start;
+    border-radius: 30px;
+    max-width: 300px;
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel_item:nth-child(1) {
+    background: linear-gradient(-229deg, #f0c331, #ef3a7b);
+}
+
+.carousel_item:nth-child(odd) {
+    background: linear-gradient(-229deg, #ff70af, #5fa8f5);
+}
